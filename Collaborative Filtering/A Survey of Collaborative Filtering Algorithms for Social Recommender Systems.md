@@ -1,15 +1,15 @@
-#A Survey of Collaborative Filtering Algorithms for Social Recommender Systems
+# A Survey of Collaborative Filtering Algorithms for Social Recommender Systems
 
 >Two kinds of main collaborative filtering
 
 - **user-based collaborative filtering**
 - **item-based collaborative filtering**
 
-##*user-based collaborative filtering*
+## *user-based collaborative filtering*
 
 基于用户的协同过滤的思想是，比较不同用户的相似性程度，利用相似用户的评分物品进行推荐。
 
-###**计算评分矩阵**
+### **计算评分矩阵**
 
 用户i对物品的平均评分：
 
@@ -37,7 +37,7 @@
 
 ![](res/6.jpg)
 
-###**发现邻近用户**
+### **发现邻近用户**
 
 1.方法一：KNN
 
@@ -51,11 +51,11 @@
 
 ![](res/yuzhi.jpg)
 
-##*item-based collaborative filtering*
+## *item-based collaborative filtering*
 
 基于物品的协同过滤的思想是，比较不同物品的相似性程度，根据当前对已有物品的打分推荐相似的物品。
 
-###**计算评分矩阵**
+### **计算评分矩阵**
 
 用户i对物品j的打分预测：
 
@@ -64,16 +64,16 @@
 w(k,j)是物品的相似度，可以利用上文的余弦相似度计算。
 
 
-##*协同过滤的挑战*
+## *协同过滤的挑战*
 
-###**冷启动**
+### **冷启动**
 
 冷启动问题是所有推荐系统都会遇到的问题之一，主要包括了新用户和新物品的冷启动。
 
-###**高计算量**
+### **高计算量**
 
 推荐系统在时间复杂度和空间复杂度都具有较高的要求，因此应该适当处理好在线计算和离线计算两部分。
 
-###**稀疏问题**
+### **稀疏问题**
 
 推荐系统中，每一个用户对海量物品中极少数物品产生评分记录，因此得到的评分矩阵是极其稀疏的。
