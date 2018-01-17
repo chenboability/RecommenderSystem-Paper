@@ -6,7 +6,9 @@
 - **item-based collaborative filtering**
 
 ##*user-based collaborative filtering*
+
 基于用户的协同过滤的思想是，比较不同用户的相似性程度，利用相似用户的评分物品进行推荐。
+
 ###**计算评分矩阵**
 
 用户i对物品的平均评分：
@@ -50,6 +52,7 @@
 ![](res/yuzhi.jpg)
 
 ##*item-based collaborative filtering*
+
 基于物品的协同过滤的思想是，比较不同物品的相似性程度，根据当前对已有物品的打分推荐相似的物品。
 
 ###**计算评分矩阵**
