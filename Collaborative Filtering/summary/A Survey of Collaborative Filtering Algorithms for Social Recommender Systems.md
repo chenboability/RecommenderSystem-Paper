@@ -1,5 +1,7 @@
 # A Survey of Collaborative Filtering Algorithms for Social Recommender Systems
 
+[论文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Collaborative%20Filtering/paper/A%20Survey%20of%20Collaborative%20Filtering%20Algorithms%20for%20Social%20Recommender%20Systems.pdf)
+
 >Two kinds of main collaborative filtering
 
 - **user-based collaborative filtering**
