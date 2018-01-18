@@ -1,6 +1,6 @@
 # Item-to-Item Collaborative Filtering
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Collaborative%20Filtering/paper/%5B2003%5D%20Item-to-Item%20Collaborative%20Filtering.pdf)
 
 > 当下推荐系统面临的挑战：
 
