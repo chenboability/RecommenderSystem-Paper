@@ -27,7 +27,15 @@ Singular Value Decomposition (SVD)奇异值分解：
 
 ![](res/11.jpg)
 
-第一项是误差项，而第二项是正则化项。参数估计可以通过随机梯度下降SGD获取$\sqrt{3x-1}+(1+x)^2$
+第一项是误差项，而第二项是正则化项。参数估计可以通过随机梯度下降SGD获取 $\sqrt{3x-1}+(1+x)^2$ 
+
+$$
+\begin{aligned}
+\dot{x} & = \sigma(y-x) \\
+\dot{y} & = \rho x - y - xz \\
+\dot{z} & = -\beta z + xy
+\end{aligned}
+$$
 
 ## paper model
 
