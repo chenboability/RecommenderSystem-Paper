@@ -29,10 +29,44 @@ Singular Value Decomposition (SVD)奇异值分解：
 
 第一项是误差项，而第二项是正则化项。参数估计可以通过随机梯度下降SGD获取。
 
+## Paper model
 
+隐式反馈中可以获得的只有这个：![](http://latex.codecogs.com/gif.latex?\{r_{uj}})
+，表示用户u对物品i的某些交互（如看电视次数、浏览网页的次数），是一个频率。核心内容就是将![](http://latex.codecogs.com/gif.latex?\{r_{uj}})
+转换成另外两个值，即用户偏好和置信度。
 
+用户偏好：![](http://latex.codecogs.com/gif.latex?\{p_{uj}})
 
-## paper model
+![](res/12.jpg)
 
+当频率超过一定阈值时，（不一定是公式中的0），用户偏好等于1.
+
+置信度：![](http://latex.codecogs.com/gif.latex?\{p_{uj}})
+，可以看成是权重，下面两个公式都可以，还有其他利用![](http://latex.codecogs.com/gif.latex?\{r_{uj}})来计算置信度![](http://latex.codecogs.com/gif.latex?\{p_{uj}})的方法
+
+![](res/13.jpg)  
+![](res/14.jpg)
+
+因此，目标函数可以表示成：
+
+![](res/15.jpg)
+
+其中![](http://latex.codecogs.com/gif.latex?\{\lambda})是数据依赖的，可以通过交叉验证来计算。上述目标函数包含mn项，无法通过SGD方法优化，本文利用 **交替最小二乘法** 来优化目标函数。
+
+最后，为用户u推荐K个预测评分最高的物品，预测公式如下：
+
+![](res/16.jpg)
+
+## 推荐解释
+
+利用交替最小二乘法中的优化步骤，可以得到在用户u视觉下，物品i和j的相似度：
+
+![](res/17.jpg)
+
+因此，推荐解释可以用下式反映：
+
+![](res/18.jpg)
+
+tip：通过这样，物品的相似度可以通过不同用户的视觉体现出来，![](http://latex.codecogs.com/gif.latex?\{{s_{ij}^u})，这可以充当上面的Neighborhood models的预处理步，用于计算物品相似度。
 
 
