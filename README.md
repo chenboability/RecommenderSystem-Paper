@@ -5,3 +5,7 @@ papers about the recommender system
 A [basic paper](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Collaborative%20Filtering/summary/A%20Survey%20of%20Collaborative%20Filtering%20Algorithms%20for%20Social%20Recommender%20Systems.md) about collaborative filtering
 
 The paper that first puts forward the [item-based collaborative filtering](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Collaborative%20Filtering/summary/Item-to-Item%20Collaborative%20Filtering.md)
+
+This paper combines the cf with [implicit feedback](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Collaborative%20Filtering/summary/Collaborative%20Filtering%20for%20Implicit%20Feedback%20Datasets.md)
+
+
