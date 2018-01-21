@@ -1,6 +1,6 @@
 # Collaborative Filtering for Implicit Feedback Datasets
 
-[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Collaborative%20Filtering/paper/%5B2003%5D%20Item-to-Item%20Collaborative%20Filtering.pdf)
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Collaborative%20Filtering/paper/%5B2008%5D%20Collaborative%20Filtering%20for%20Implicit%20Feedback%20Datasets.pdf)
 
 点赞、打分等显示反馈信息虽然可以直接反映用户的偏好，但是量是非常稀缺的，而且也难以体现用户对那些物品是不喜欢、不满意的，因此可以利用隐式反馈信息来弥补。
 
