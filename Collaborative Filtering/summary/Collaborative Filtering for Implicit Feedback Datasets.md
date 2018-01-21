@@ -19,7 +19,7 @@
 
 ![](res/10.jpg)
 
-S为用户u之前评价的k个物品集，s\_ij是物品i和物品j的相似度，r\_uj是用户u对物品j的评价。
+![](http://latex.codecogs.com/gif.latex?\{S^{k}})为用户u之前评价的k个物品集，![](http://latex.codecogs.com/gif.latex?\{s_{ij}})是物品i和物品j的相似度，![](http://latex.codecogs.com/gif.latex?\{r_{uj}})是用户u对物品j的评价。
 
 ## Latent factor models
 
@@ -27,11 +27,10 @@ Singular Value Decomposition (SVD)奇异值分解：
 
 ![](res/11.jpg)
 
-第一项是误差项，而第二项是正则化项。参数估计可以通过随机梯度下降SGD获取 $\sqrt{3x-1}+(1+x)^2$ 
+第一项是误差项，而第二项是正则化项。参数估计可以通过随机梯度下降SGD获取。
 
-<img src="http://latex.codecogs.com/gif.latex?\frac{\partial J}{\partial \theta_k^{(j)}}=\sum_{i:r(i,j)=1}{\big((\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\big)x_k^{(i)}}+\lambda \theta_k^{(j)}" />
 
-![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
+
 
 ## paper model
 
