@@ -10,3 +10,5 @@ This paper combines the cf with [implicit feedback](https://github.com/chenboabi
 
 ## Matrix Factorization
 [Probabilistic Matrix Factorization](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Matrix%20Factorization/summary/Probabilistic%20Matrix%20Factorization.md)
+
+基于社交关系的[矩阵分解](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Matrix%20Factorization/summary/SoRec%20Social%20Recommendation%20Using%20PMF.md)

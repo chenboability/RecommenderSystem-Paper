@@ -1,6 +1,6 @@
 # SoRec: Social Recommendation Using Probabilistic Matrix Factorization
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Matrix%20Factorization/paper/Social%20Recommendation%20Using%20Probabilistic%20Matrix%20Factorization.pdf)
 
 > 文章思路：结合社交关系和MF，预测用户评分；利用社交关系，为新用户提供参考，解决冷启动问题。
 
