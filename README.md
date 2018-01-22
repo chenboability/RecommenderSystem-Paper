@@ -8,4 +8,5 @@ The paper that first puts forward the [item-based collaborative filtering](https
 
 This paper combines the cf with [implicit feedback](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Collaborative%20Filtering/summary/Collaborative%20Filtering%20for%20Implicit%20Feedback%20Datasets.md)
 
-
+## Matrix Factorization
+[Probabilistic Matrix Factorization](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Matrix%20Factorization/summary/Probabilistic%20Matrix%20Factorization.md)
