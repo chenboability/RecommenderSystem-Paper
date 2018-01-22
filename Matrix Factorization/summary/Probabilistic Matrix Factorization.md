@@ -1,6 +1,6 @@
 # Probabilistic Matrix Factorization
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Matrix%20Factorization/paper/Probabilistic%20Matrix%20Factorization.pdf)
 
 CF的弊端：
 
@@ -33,6 +33,26 @@ PMF的图模型：
 
 其中，g(x)为逻辑函数，g(x) = 1/(1+exp(-x))
 
-## Automatic Complexity Control for PMF Models
+## Constrained PMF
 
+图模型如下：
 
+![](res/cpmf.jpg)
+
+用户i的特征向量：
+
+![](res/7.jpg)
+
+其中，I是indicator matrix，当用户i对物品j评分过时，![](http://latex.codecogs.com/gif.latex?\{I_{ij}=1})，否则等于0。分母起到计数的作用。W是latent similarity constraint matrix，W的第i列，表示该用户历史评分的物品影响。
+**因此，有着相似历史评分的用户，他们的特征向量有着相似的先验分布。**
+Y是这先验分布均值的偏差（在PMF下，由于先验分布均值=0，因此U=Y）
+
+因此，条件分布如下：
+
+![](res/8.jpg)
+
+![](res/9.jpg)
+
+因此，最小化下面的式子：
+
+![](res/12.jpg)
