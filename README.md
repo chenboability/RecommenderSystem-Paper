@@ -12,3 +12,6 @@ This paper combines the cf with [implicit feedback](https://github.com/chenboabi
 [Probabilistic Matrix Factorization](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Matrix%20Factorization/summary/Probabilistic%20Matrix%20Factorization.md)
 
 [Social Recommendation Using Probabilistic Matrix Factorization](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Matrix%20Factorization/summary/SoRec%20Social%20Recommendation%20Using%20PMF.md)
+
+## Collaborative Ranking
+Combine the [collaborative ranking with social relationships](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Collaborative%20Ranking/summary/Collaborative%20Ranking%20with%20Social%20Relationships%20for%20Top-N%20Recommendations.md)

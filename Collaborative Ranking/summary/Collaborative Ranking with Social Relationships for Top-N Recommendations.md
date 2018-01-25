@@ -1,6 +1,6 @@
 # Collaborative Ranking with Social Relationships for Top-N Recommendations
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Collaborative%20Ranking/paper/%5B2016%5D%20%5BSIGIR%20A%5D%20%5BCollaborative%20Ranking%20with%20Social%20Relationships%20for%20Top-N%20Recommendations%5D.pdf)
 
 > 利用CR模型，结合社交关系，实现top N推荐
 
