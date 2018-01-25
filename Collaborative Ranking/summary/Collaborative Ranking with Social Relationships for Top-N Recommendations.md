@@ -38,4 +38,4 @@
 
 ![](res/9.jpg)
 
-这篇文章的目标是最小化SRH，而作者的另一篇[改进版文章]()，在最小化SRH的基础上，同时还要最小化SH，思路类似。
+这篇文章的目标是最小化SRH，而作者的另一篇[改进版文章](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Collaborative%20Ranking/paper/Joint%20Collaborative%20Ranking%20with%20Social%20Relationships%20in%20Top-N%20Recommendation.pdf)，在最小化SRH的基础上，同时还要最小化SH，思路类似。
