@@ -15,3 +15,7 @@ This paper combines the cf with [implicit feedback](https://github.com/chenboabi
 
 ## Collaborative Ranking
 Combine the [collaborative ranking with social relationships](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Collaborative%20Ranking/summary/Collaborative%20Ranking%20with%20Social%20Relationships%20for%20Top-N%20Recommendations.md)
+
+## Top-N Problem
+Combine pairwise ranking loss and pointwise recovery loss for [top-n problem](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Top%20N%20Problem/summary/Improving%20Top-N%20Recommendation%20with%20Heterogeneous%20Loss.md)
+

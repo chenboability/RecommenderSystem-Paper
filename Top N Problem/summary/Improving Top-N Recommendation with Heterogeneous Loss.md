@@ -1,6 +1,6 @@
 # Improving Top-N Recommendation with Heterogeneous Loss
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Top%20N%20Problem/paper/%5B%202016%20IJCAI%20%5D%20Improving%20Top-N%20Recommendation%20with%20Heterogeneous%20Loss.pdf)
 
 > 结合pairwise ranking loss 和 pointwise recovery loss两种损失函数，求解top-N问题
 
