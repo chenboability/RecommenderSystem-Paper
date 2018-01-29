@@ -1,6 +1,6 @@
 # Top-N Recommendation on Graphs
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Top%20N%20Problem/paper/Top-N%20Recommendation%20on%20Graphs.pdf)
 
 > Top-N Recommendation based on Graphs
 
