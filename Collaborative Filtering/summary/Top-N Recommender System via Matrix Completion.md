@@ -1,6 +1,6 @@
 # Top-N Recommender System via Matrix Completion
 
-[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Collaborative%20Ranking/paper/%5B2016%5D%20%5BSIGIR%20A%5D%20%5BCollaborative%20Ranking%20with%20Social%20Relationships%20for%20Top-N%20Recommendations%5D.pdf)
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Collaborative%20Filtering/paper/%5B2016%5D%20%5BAAAI%20A%5D%20%5BTop-N%20Recommender%20System%20via%20Matrix%20Completion%5D.pdf)
 
 > 这篇文章就是做了一个工具，用于CF的邻居发现过程。
 
