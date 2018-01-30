@@ -1,6 +1,6 @@
 # node2vec: Scalable Feature Learning for Networks
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Top%20N%20Problem/paper/node2vec%20Scalable%20Feature%20Learning%20for%20Networks.pdf)
 
 ## 最大化似然的优化问题
 

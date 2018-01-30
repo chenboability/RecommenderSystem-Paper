@@ -24,3 +24,5 @@ Combine the [collaborative ranking with social relationships](https://github.com
 Combine pairwise ranking loss and pointwise recovery loss for [top-n problem](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Top%20N%20Problem/summary/Improving%20Top-N%20Recommendation%20with%20Heterogeneous%20Loss.md)
 
 Use user graphs and item [graphs for top-n recommendation](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Top%20N%20Problem/summary/Top-N%20rcommendation%20on%20graphs.md) 
+
+[entity2rec](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Top%20N%20Problem/summary/entity2rec%20Learning%20User-Item%20Relatedness%20from%20Knowledge%20Graphs%20for%20Top-N%20Item%20Recommendation.md)
