@@ -1,6 +1,6 @@
 # Item Silk Road Recommending Items from Information Domains to Social Users
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Item%20Silk%20Road%20Recommending%20Items%20from%20Information%20Domains%20to%20Social%20Users.pdf)
 
 ## Learning of Information Domain
 
