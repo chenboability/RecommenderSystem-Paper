@@ -35,5 +35,5 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 
 [NCF](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Neural%20collaborative%20fi%C2%80ltering.md)
 
-[NSCR]()
+[NSCR](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Item%20Silk%20Road%20Recommending%20Items%20from%20Information%20Domains%20to%20Social%20Users.md)
 
