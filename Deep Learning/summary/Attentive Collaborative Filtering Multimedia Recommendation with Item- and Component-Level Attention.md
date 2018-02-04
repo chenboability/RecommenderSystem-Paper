@@ -1,5 +1,7 @@
 # Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention
 
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Attentive%20Collaborative%20Filtering%20Multimedia%20Recommendation%20with%20Item-%20and%20Component-Level%20Attention.pdf)
+
 > attention-based CF
 
 ## PRELIMINARIES
