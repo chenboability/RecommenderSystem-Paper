@@ -37,3 +37,5 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 
 [NSCR](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Item%20Silk%20Road%20Recommending%20Items%20from%20Information%20Domains%20to%20Social%20Users.md)
 
+[DeepFM]()
+
