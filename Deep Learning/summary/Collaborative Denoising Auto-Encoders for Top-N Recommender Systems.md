@@ -1,6 +1,6 @@
 # Collaborative Denoising Auto-Encoders for Top-N Recommender Systems
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Collaborative%20Denoising%20Auto-Encoders%20for%20Top-N%20Recommender%20Systems.pdf)
 
 ## Denoising Auto-Encoders
 1、 classical auto-encoder

@@ -42,6 +42,8 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 
 [AutoRec](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/AutoRec%20Autoencoders%20Meet%20Collaborative%20Filtering.md)
 
+[CDAE](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Collaborative%20Denoising%20Auto-Encoders%20for%20Top-N%20Recommender%20Systems.md)
+
 
 
 
