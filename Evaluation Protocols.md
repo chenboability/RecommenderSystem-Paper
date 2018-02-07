@@ -23,3 +23,7 @@
 ## Rating Prediction
 
 1、 Mean Square Errors (MSE)
+
+2、 Root Mean Squared Error (RMSE)
+
+![](res/rmse.jpg)
