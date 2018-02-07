@@ -29,7 +29,7 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 
 ## Deep Learning
 
-### MLP
+### Multilayer Perceptron (MLP)
 
 [NCF](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Neural%20collaborative%20filtering.md)
 
@@ -38,7 +38,7 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 [DeepFM](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/DeepFM%20A%20Factorization-Machine%20based%20Neural%20Network%20for%20CTR%20Prediction.md)
 
 [ACF](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Attentive%20Collaborative%20Filtering%20Multimedia%20Recommendation%20with%20Item-%20and%20Component-Level%20Attention.md)
-### Autoencoder
+### Autoencoder (AE)
 
 [AutoRec](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/AutoRec%20Autoencoders%20Meet%20Collaborative%20Filtering.md)
 
@@ -47,6 +47,8 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 [mDA-CF](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Deep%20Collaborative%20Filtering%20via%20Marginalized%20Denoising%20Auto-encoder.md)
 
 [AutoSVD](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/AutoSVD%2B%2B%20An%20Efficient%20Hybrid%20Collaborative%20Filtering%20Model%20via%20Contractive%20Auto-encoders.md)
+
+### Convolutional Neural Network (CNN)
 
 
 
