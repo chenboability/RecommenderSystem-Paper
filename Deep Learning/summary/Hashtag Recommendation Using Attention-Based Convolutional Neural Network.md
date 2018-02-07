@@ -1,6 +1,6 @@
 # Hashtag Recommendation Using Attention-Based Convolutional Neural Network
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Hashtag%20Recommendation%20Using%20A%C2%8Attention-Based%20Convolutional%20Neural%20Network.pdf)
 
 > 标签推荐->多分类问题
 
