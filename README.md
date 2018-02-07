@@ -46,6 +46,8 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 
 [mDA-CF](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Deep%20Collaborative%20Filtering%20via%20Marginalized%20Denoising%20Auto-encoder.md)
 
+[AutoSVD](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/AutoSVD%2B%2B%20An%20Efficient%20Hybrid%20Collaborative%20Filtering%20Model%20via%20Contractive%20Auto-encoders.md)
+
 
 
 

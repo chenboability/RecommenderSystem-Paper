@@ -1,6 +1,6 @@
 # AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/AutoSVD%2B%2B.pdf)
 
 ## Latent Factor Models & Contractive Auto-encoders
 ### Latent Factor Models
@@ -35,3 +35,7 @@
 预测得分：
 
 ![](res/52.jpg)
+
+### AutoSVD++
+
+![](res/53.jpg)
