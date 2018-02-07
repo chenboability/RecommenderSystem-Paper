@@ -1,6 +1,6 @@
 # Deep Collaborative Filtering via Marginalized Denoising Auto-encoder
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/mDA-CF.pdf)
 
 ## Deep Collaborative Filtering (DCF): A General Framework
 
