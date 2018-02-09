@@ -24,6 +24,8 @@
 
 1、 Mean Square Errors (MSE)
 
+![](res/mse.jpg)
+
 2、 Root Mean Squared Error (RMSE)
 
 ![](res/rmse.jpg)
