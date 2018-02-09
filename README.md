@@ -52,6 +52,8 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 
 [Hashtag Recommendation Using Attention-Based Convolutional Neural Network](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Hashtag%20Recommendation%20Using%20Attention-Based%20Convolutional%20Neural%20Network.md)
 
+[DeepCoNN](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Joint%20Deep%20Modeling%20of%20Users%20and%20Items%20Using%20Reviews%20for%20Recommendation.md)
+
 
 
 

@@ -1,6 +1,6 @@
 # Joint Deep Modeling of Users and Items Using Reviews for Recommendation
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Joint%20Deep%20Modeling%20of%20Users%20and%20Items%20Using%20Reviews%20for%20Recommendation.pdf)
 
 ## 框架
 
