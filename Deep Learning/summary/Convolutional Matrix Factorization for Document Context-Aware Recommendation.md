@@ -1,6 +1,6 @@
 # Convolutional Matrix Factorization for Document Context-Aware Recommendation
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Convolutional%20matrix%20factorization%20for%20document%20context-aware%20recommendation.pdf)
 
 ## 框架
 

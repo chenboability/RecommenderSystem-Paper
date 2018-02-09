@@ -54,7 +54,7 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 
 [DeepCoNN](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Joint%20Deep%20Modeling%20of%20Users%20and%20Items%20Using%20Reviews%20for%20Recommendation.md)
 
-[ConvMF]()
+[ConvMF](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Convolutional%20Matrix%20Factorization%20for%20Document%20Context-Aware%20Recommendation.md)
 
 
 
