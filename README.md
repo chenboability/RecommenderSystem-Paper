@@ -60,6 +60,8 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 
 [VPOI](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/What%20Your%20Images%20Reveal%20Exploiting%20Visual%20Contents%20for%20Point-of-Interest%20Recommendation.md)
 
+[Automatic Recommendation Technology for Learning Resources with Convolutional Neural Network]()
+
 
 
 
