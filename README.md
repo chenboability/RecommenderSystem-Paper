@@ -48,6 +48,8 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 
 [AutoSVD](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/AutoSVD%2B%2B%20An%20Efficient%20Hybrid%20Collaborative%20Filtering%20Model%20via%20Contractive%20Auto-encoders.md)
 
+[CDL]()
+
 ### Convolutional Neural Network (CNN)
 
 [Hashtag Recommendation Using Attention-Based Convolutional Neural Network](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Hashtag%20Recommendation%20Using%20Attention-Based%20Convolutional%20Neural%20Network.md)
