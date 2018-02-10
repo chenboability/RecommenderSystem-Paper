@@ -1,6 +1,6 @@
 # Automatic Recommendation Technology for Learning Resources with Convolutional Neural Network
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Automatic%20Recommendation%20Technology%20for%20Learning%20Resources%20with%20Convolutional%20Neural%20Network.pdf)
 
 ## 框架
 
