@@ -1,6 +1,6 @@
 # Collaborative Deep Learning for Recommender Systems
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Collaborative%20deep%20learning%20for%20recommender%20systems.pdf)
 
 ## CDL框架
 
