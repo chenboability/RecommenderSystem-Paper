@@ -64,7 +64,7 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 
 ### Recurrent Neural Network (RNN)
 
-[RRN]()
+[RRN](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Recurrent%20Recommender%20Networks.md)
 
 
 

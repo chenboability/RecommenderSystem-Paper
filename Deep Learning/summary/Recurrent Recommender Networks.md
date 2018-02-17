@@ -1,6 +1,6 @@
 # Recurrent Recommender Networks
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/rrn.pdf)
 
 ## Recurrent Deep Networks
 
