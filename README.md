@@ -66,6 +66,8 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 
 [RRN](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Recurrent%20Recommender%20Networks.md)
 
+[Ask the GRU: Multi-Task Learning for Deep Text Recommendations]()
+
 
 
 
