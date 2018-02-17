@@ -1,6 +1,6 @@
 # Ask the GRU: Multi-Task Learning for Deep Text Recommendations
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Ask%20the%20gru%20Multi-task%20learning%20for%20deep%20text%20recommendations.pdf)
 
 ## 框架
 
