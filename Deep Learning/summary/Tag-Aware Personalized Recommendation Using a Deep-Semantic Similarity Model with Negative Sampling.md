@@ -1,6 +1,6 @@
 # Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Tag-aware%20personalized%20recommendation%20using%20a%20deep-semantic%20similarity%20model%20with%20negative%20sampling.pdf)
 
 ## 框架
 
