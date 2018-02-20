@@ -74,6 +74,11 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 
 [MV-DNN](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/A%20multi-view%20deep%20learning%20approach%20for%20cross%20domain%20user%20modeling%20in%20recommendation%20systems.md)
 
+### Restricted Boltzmann Machine (RBM)
+
+[RBM-CF]()
+
+
 
 
 
