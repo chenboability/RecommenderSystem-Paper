@@ -50,6 +50,8 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 
 [CDL](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Collaborative%20Deep%20Learning%20for%20Recommender%20Systems.md)
 
+combine with CNN: [CKE]()
+
 ### Convolutional Neural Network (CNN)
 
 [Hashtag Recommendation Using Attention-Based Convolutional Neural Network](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Hashtag%20Recommendation%20Using%20Attention-Based%20Convolutional%20Neural%20Network.md)
