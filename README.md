@@ -72,7 +72,7 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 
 [DSPR](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Tag-Aware%20Personalized%20Recommendation%20Using%20a%20Deep-Semantic%20Similarity%20Model%20with%20Negative%20Sampling.md)
 
-[MV-DNN]()
+[MV-DNN](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/A%20multi-view%20deep%20learning%20approach%20for%20cross%20domain%20user%20modeling%20in%20recommendation%20systems.md)
 
 
 
