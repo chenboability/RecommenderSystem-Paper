@@ -38,3 +38,5 @@ Our model mainly consists of two steps:
 对图像进行处理，采用6-layer stacked convolutional auto-encoders (SCAE)
 
 ![](res/6-layerscae.jpg)
+
+## COLLABORATIVE JOINT LEARNING
