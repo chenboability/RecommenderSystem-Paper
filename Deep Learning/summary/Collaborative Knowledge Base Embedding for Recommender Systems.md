@@ -40,3 +40,11 @@ Our model mainly consists of two steps:
 ![](res/6-layerscae.jpg)
 
 ## COLLABORATIVE JOINT LEARNING
+
+物品的隐式表达：
+
+![](res/99.jpg)
+
+因此，
+
+![](res/100.jpg)
