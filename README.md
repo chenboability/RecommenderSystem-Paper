@@ -70,7 +70,9 @@ combine with CNN: [CKE](https://github.com/chenboability/RecommenderSystem-Paper
 
 [Ask the GRU: Multi-Task Learning for Deep Text Recommendations](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Ask%20the%20GRU%20Multi-Task%20Learning%20for%20Deep%20Text%20Recommendations.md)
 
-combine with CNN: [Hashtag Recommendation for Multimodal Microblog Using Co-Attention Network](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Hashtag%20Recommendation%20for%20Multimodal%20Microblog%20Using%20Co-Attention%20Network.md)
+combine LSTM with CNN: [Hashtag Recommendation for Multimodal Microblog Using Co-Attention Network](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Hashtag%20Recommendation%20for%20Multimodal%20Microblog%20Using%20Co-Attention%20Network.md)
+
+combine GRU with CNN: [NCN](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Neural%20Citation%20Network%20for%20Context-Aware%20Citation%20Recommendation.md)
 
 ### Deep Semantic Similarity Model (DSSM)
 

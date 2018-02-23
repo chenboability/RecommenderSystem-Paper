@@ -1,6 +1,6 @@
 # Neural Citation Network for Context-Aware Citation Recommendation
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Neural%20Citation%20Network%20for%20Context-Aware%20Citation%20Recommendation.pdf)
 
 > encoder-decoder architecture
 
