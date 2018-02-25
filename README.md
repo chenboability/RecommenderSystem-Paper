@@ -64,7 +64,7 @@ combine with CNN: [CKE](https://github.com/chenboability/RecommenderSystem-Paper
 
 [Automatic Recommendation Technology for Learning Resources with Convolutional Neural Network](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Automatic%20Recommendation%20Technology%20for%20Learning%20Resources%20with%20Convolutional%20Neural%20Network.md)
 
-combine with MLP: [Comparative Deep Learning of Hybrid Representations for Image Recommendations]()
+combine with MLP: [Comparative Deep Learning of Hybrid Representations for Image Recommendations](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Comparative%20Deep%20Learning%20of%20Hybrid%20Representations%20for%20Image%20Recommendations.md)
 
 ### Recurrent Neural Network (RNN)
 

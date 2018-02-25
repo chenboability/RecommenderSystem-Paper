@@ -1,6 +1,6 @@
 # Comparative Deep Learning of Hybrid Representations for Image Recommendations
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Comparative%20Deep%20Learning%20of%20Hybrid%20Representations%20for%20Image%20Recommendations..pdf)
 
 > 图片推荐，利用CNN神经网络将图片和用户映射到同一个隐式空间中，如图所示
 
