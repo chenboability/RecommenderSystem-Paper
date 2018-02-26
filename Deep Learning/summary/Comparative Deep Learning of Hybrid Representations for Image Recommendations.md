@@ -2,7 +2,7 @@
 
 [论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Comparative%20Deep%20Learning%20of%20Hybrid%20Representations%20for%20Image%20Recommendations..pdf)
 
-> 图片推荐，利用CNN神经网络将图片和用户映射到同一个隐式空间中，如图所示
+> 图片推荐，利用CNN和MLP神经网络将图片和用户映射到同一个隐式空间中，如图所示
 
 ![](res/116.jpg)
 
@@ -39,7 +39,7 @@
 
 解决方法：
 
-先进行次向量化，然后用k-means距离，缩小标签空间到1024个，再用词袋模型
+先进行词向量化，然后用k-means距离，缩小标签空间到1024个，再用词袋模型
 
 ![](res/122.jpg)
 
