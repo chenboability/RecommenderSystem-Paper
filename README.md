@@ -29,6 +29,8 @@ Use user graphs and item [graphs for top-n recommendation](https://github.com/ch
 
 ## Deep Learning
 
+[Summary](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E7%BB%BC%E8%BF%B0.pdf)
+
 ### Multilayer Perceptron (MLP)
 
 [NCF](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Neural%20collaborative%20filtering.md)
