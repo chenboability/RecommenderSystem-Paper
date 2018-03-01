@@ -31,3 +31,7 @@
 2、 Root Mean Squared Error (RMSE)
 
 ![](res/rmse.jpg)
+
+3、 Mean Absolute Error (MAE)
+
+![](res/mae.jpg)
