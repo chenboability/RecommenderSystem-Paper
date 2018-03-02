@@ -86,6 +86,8 @@ combine GRU with CNN: [NCN](https://github.com/chenboability/RecommenderSystem-P
 
 [MV-DNN](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/A%20multi-view%20deep%20learning%20approach%20for%20cross%20domain%20user%20modeling%20in%20recommendation%20systems.md)
 
+combine with CNN: [Modeling Interestingness with Deep Neural Networks](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Modeling%20Interestingness%20with%20Deep%20Neural%20Networks.md)
+
 ### Restricted Boltzmann Machine (RBM)
 
 [RBM-CF]()

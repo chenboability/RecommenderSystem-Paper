@@ -1,6 +1,6 @@
 # Modeling Interestingness with Deep Neural Networks
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Modeling%20interestingness%20with%20deep%20neural%20networks.pdf)
 
 > 用户u看来文章a之后，为他推荐文章b
 
