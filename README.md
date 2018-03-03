@@ -88,6 +88,8 @@ combine GRU with CNN: [NCN](https://github.com/chenboability/RecommenderSystem-P
 
 combine with CNN: [Modeling Interestingness with Deep Neural Networks](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Modeling%20Interestingness%20with%20Deep%20Neural%20Networks.md)
 
+combine with LSTM: [TDSSM](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Multi-Rate%20Deep%20Learning%20for%20Temporal%20Recommendation.md)
+
 ### Restricted Boltzmann Machine (RBM)
 
 [RBM-CF]()

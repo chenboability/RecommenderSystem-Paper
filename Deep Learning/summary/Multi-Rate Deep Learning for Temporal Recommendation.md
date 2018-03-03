@@ -1,6 +1,6 @@
 # Multi-Rate Deep Learning for Temporal Recommendation
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Multi-Rate%20Deep%20Learning%20for%20Temporal%20Recommendation.pdf)
 
 > 利用rnn提取时间性特征，利用dssm计算物品和用户的距离，设计了多速率的计算
 
