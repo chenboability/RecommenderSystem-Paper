@@ -5,19 +5,33 @@
 > attention-based CF
 
 ## PRELIMINARIES
+
 ### Latent Factor Models
+
+point-wise loss
+
 ![](res/23.jpg)
+
 缺点：applying SVD in implicit feedback domain raises
 difficulties due to the high portion of unobservable data.
+
 ### Bayesian Personalized Ranking (BPR)
+
+pair-wise loss
+
 ![](res/24.jpg)
 
 ## ATTENTIVE COLLABORATIVE FILTERING
+
 ### General Framework
+
 ![](res/acf.jpg)
 
 目标函数（从BPR借鉴）：
+
 ![](res/25.jpg)
+
+其中![](http://latex.codecogs.com/gif.latex?\alpha(i,j))表示用户i对j的兴趣度，即item-级的attention。
 
 评分预测：
 
@@ -30,6 +44,7 @@ difficulties due to the high portion of unobservable data.
 因为the weights should be highly dependent to the user and the item content，因此作者设计了一个动态计算用户相关的权值计算方法。
 
 ### Item-Level Attention
+
 权值![](http://latex.codecogs.com/gif.latex?\alpha)的计算，利用一个两层网络：
 
 ![](res/28.jpg)
@@ -37,6 +52,7 @@ difficulties due to the high portion of unobservable data.
 ![](res/29.jpg)
 
 ### Component-Level Attention
+
 权值![](http://latex.codecogs.com/gif.latex?\beta)的计算，同样是一个两层网络：
 
 ![](res/30.jpg)
