@@ -12,7 +12,12 @@
 
 ### Input Layer
 
-每一个词one-hot编码+tri-letter(“#dog#”,->“#do”, “dog”, and “og#”.)目的是如果one-hot的字典库中没有出现的，可以通过tri-letter区分
+每一个词one-hot编码+tri-letter(“#dog#”,->“#do”, “dog”, and “og#”.)
+
+目的：
+1、如果one-hot的字典库中没有出现的词，即OOV (out of vocabulary)，可以通过tri-letter区分
+
+2、同一个词的不同时态、人称等变体，转换成相似的表达方式
 
 ### Convolutional Layer
 
