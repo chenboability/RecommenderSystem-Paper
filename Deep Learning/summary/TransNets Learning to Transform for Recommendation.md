@@ -1,6 +1,6 @@
 # TransNets: Learning to Transform for Recommendation
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/TransNets%20Learning%20to%20Transform%20for%20Recommendation%20by%20Rose%20Catherine.pdf)
 
 ## 解决问题
 
