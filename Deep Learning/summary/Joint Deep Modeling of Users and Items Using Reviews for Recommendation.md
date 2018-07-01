@@ -8,7 +8,7 @@
 
 ## Word Representation
 
-word embeddings，对每一个词，形成一个c维的词向量，同时保持词序（向量序列），不是利用词袋。
+word embeddings，对每一个词，利用lookup function形成一个c维的词向量；对整个文本的n个词都执行词向量操作，同时保持词序（向量序列），不是利用词袋。
 
 ![](res/59.jpg)
 
@@ -18,26 +18,38 @@ word embeddings，对每一个词，形成一个c维的词向量，同时保持�
 
 ### convolution layer
 
-有m个神经元，每一个神经元有如下操作：
+有m个神经元，有n1个卷积核，对每一个卷积核执行如下卷积操作，利用一个滑动窗口（大小为t），对窗口内的词向量进行卷积操作，得到{z1,z2,...,z(n-t+1)}
 
 ![](res/60.jpg)
 
 ### max pooling
 
-每一个神经元，用max pooling得到一个值最大的特征，因此整个卷积的结果可以用一个固定长度的矩阵来表示
+每一个卷积核，用max pooling得到一个值最大的特征，因此整个卷积的结果可以用一个固定长度的矩阵来表示
 
 ![](res/61.jpg)
 
 ### fully connected layer
 
-全连接层通过一个W权值矩阵
+全连接层通过一个W权值,b偏差矩阵
 
 ![](res/62.jpg)
 
-the outputs of both user and item CNN xu and yi can be obtained.
+结果：the outputs of both user and item CNN xu and yi can be obtained.
 
 ## The Shared Layer
+
+目的：map them into the same feature space
 
 The Shared Layer用通过Factorization Machine (FM)，连接两个CNN网络的输出结果。
 
 ![](res/63.jpg)
+
+## Network Training
+
+目标函数：最小化上式
+
+方法：RMSprop over shuffled minibatches
+
+此外，还在全连接层利用了dropout
+
+
