@@ -70,6 +70,8 @@ combine with CNN: [CKE](https://github.com/chenboability/RecommenderSystem-Paper
 
 [Automatic Recommendation Technology for Learning Resources with Convolutional Neural Network](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Automatic%20Recommendation%20Technology%20for%20Learning%20Resources%20with%20Convolutional%20Neural%20Network.md)
 
+[NSPR](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Neural%20Semantic%20Personalized%20Ranking%20for%20item%20coldstart%20recommendation.md)
+
 combine with MLP: [Comparative Deep Learning of Hybrid Representations for Image Recommendations](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/Comparative%20Deep%20Learning%20of%20Hybrid%20Representations%20for%20Image%20Recommendations.md)
 
 combine with MLP: [ConTagNet](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/summary/ConTagNet%20Exploiting%20User%20Context%20for%20Image%20Tag%20Recommendation.md)

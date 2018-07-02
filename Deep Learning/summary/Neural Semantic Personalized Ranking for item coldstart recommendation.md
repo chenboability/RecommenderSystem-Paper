@@ -1,6 +1,6 @@
 # Neural Semantic Personalized Ranking for item coldstart recommendation
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Deep%20Learning/paper/Neural%20Semantic%20Personalized%20Ranking%20for%20item%20cold-start%20recommendation.pdf)
 
 ## 出发点
 
