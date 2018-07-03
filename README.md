@@ -100,6 +100,12 @@ combine with LSTM: [TDSSM](https://github.com/chenboability/RecommenderSystem-Pa
 
 [RBM-CF]()
 
+## Multitask
+
+[BoWLF&LMLF]()
+
+
+
 
 
 
