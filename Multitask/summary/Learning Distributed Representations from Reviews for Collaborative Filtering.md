@@ -1,6 +1,6 @@
 # Learning Distributed Representations from Reviews for Collaborative Filtering
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Multitask/paper/Learning%20Distributed%20Representations%20from%20Reviews%20for%20Collaborative%20Filtering.pdf)
 
 ## Taming the Curse of Data Sparsity
 
