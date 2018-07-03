@@ -104,7 +104,7 @@ combine with LSTM: [TDSSM](https://github.com/chenboability/RecommenderSystem-Pa
 
 [BoWLF&LMLF](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Multitask/summary/Learning%20Distributed%20Representations%20from%20Reviews%20for%20Collaborative%20Filtering.md)
 
-[PSR]()
+[PSR](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Multitask/summary/Personalized%20Semantic%20Ranking%20for%20Collaborative%20Recommendation.md)
 
 
 

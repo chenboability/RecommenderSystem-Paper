@@ -1,6 +1,6 @@
 # Personalized Semantic Ranking for Collaborative Recommendation
 
-[论文原文]()
+[论文原文](https://github.com/chenboability/RecommenderSystem-Paper/blob/master/Multitask/paper/Personalized%20Semantic%20Ranking%20for%20Collaborative%20Recommendation.pdf)
 
 ## 模型
 
