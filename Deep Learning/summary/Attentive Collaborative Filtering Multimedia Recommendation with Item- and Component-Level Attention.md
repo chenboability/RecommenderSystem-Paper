@@ -27,11 +27,11 @@ pair-wise loss
 
 ![](res/acf.jpg)
 
-目标函数（从BPR借鉴）：
+目标函数（从BPR借鉴，对ui进行改进）：
 
 ![](res/25.jpg)
 
-其中![](http://latex.codecogs.com/gif.latex?\alpha(i,j))表示用户i对j的兴趣度，即item-级的attention。
+其中![](http://latex.codecogs.com/gif.latex?\alpha(i,j))表示用户i对物品j的兴趣度，即item-级的attention。component-级的attention也和![](http://latex.codecogs.com/gif.latex?\alpha(i,j))有关。
 
 评分预测：
 
@@ -43,16 +43,22 @@ pair-wise loss
 
 因为the weights should be highly dependent to the user and the item content，因此作者设计了一个动态计算用户相关的权值计算方法。
 
+模型的基本思路：
+
+对于每一个物品l，将物品的第m部分（如图片的第m块或者视频的第m帧）以及用户ui作为component-子网络输入，得到![](http://latex.codecogs.com/gif.latex?\beta(l,m))作为该部分的权值，然后对物品的每一部分进行加权求和。然后，结合ui，vl，pl以及物品l子网络的结果，计算![](http://latex.codecogs.com/gif.latex?\alpha(i,l))作为用户i对物品l的权值，然后对用户i是所有物品进行加权求和。
+
 ### Item-Level Attention
 
 权值![](http://latex.codecogs.com/gif.latex?\alpha)的计算，利用一个两层网络：
 
 ![](res/28.jpg)
 
+然后用一个softmax函数：
+
 ![](res/29.jpg)
 
 ### Component-Level Attention
 
-权值![](http://latex.codecogs.com/gif.latex?\beta)的计算，同样是一个两层网络：
+权值![](http://latex.codecogs.com/gif.latex?\beta)的计算，同样是一个两层网络，最后也是用一个softmax函数：：
 
 ![](res/30.jpg)
